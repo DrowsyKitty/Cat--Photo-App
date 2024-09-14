@@ -1,2 +1,2 @@
 # Cat-Photo-App
-FreeCodeCamp cat photo app html + css
+FreeCodeCamp cat photo app html + css personalization
