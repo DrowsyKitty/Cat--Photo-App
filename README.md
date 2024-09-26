@@ -1,2 +1,2 @@
 # Cat-Photo-App
-FreeCodeCamp cat photo app questionnaire html + css personalization
+Cat photo app questionnaire html + css personalization
